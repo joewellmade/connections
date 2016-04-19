@@ -4348,8 +4348,18 @@ body {
 .header {
   margin: 20px auto; }
 
+h1 {
+  font-weight: bold !important;
+  font-size: 31.5px;
+  color: #333; }
+
 h1, p {
-  color: #595959; }
+  color: #333; }
+
+p {
+  font-size: 14px;
+  line-height: 20px;
+  color: #333; }
 
 .briefing a {
   text-decoration: underline; }
